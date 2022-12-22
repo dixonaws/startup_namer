@@ -7,4 +7,4 @@ This project is a starting point for a Flutter application.
 
 ## Build
 `flutter build web` builds the project in `build/web` in a format (~20MB) that is
-deployable to a web server (e.g., S3/Cloudfront).
+deployable to a web server (e.g., AWS S3/Cloudfront).
